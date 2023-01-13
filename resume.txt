@@ -1,1 +1,10 @@
  Resumé du cours de git et github
+
+
+
+Git est un logiciel de versioning crée par le fondateur de Linux en 2005.
+Il existe deux types de gestionnaire de version: Les centralisés et les décentralisés.
+Il est plus avantageux d'utiliser les décentralisés.
+
+Git
+
